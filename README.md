@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hey-shivam
+- 👋 Hi, I’m Shivam
 - 👀 I’m a Web Developer
 - 🌱 Fresher
 - 💞️ I’m looking for a Intership
